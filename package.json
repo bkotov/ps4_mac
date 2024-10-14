@@ -1,0 +1,14 @@
+{
+  "name": "ps4_mac",
+  "version": "1.0.0",
+  "description": "This tool is supposed to override the PS4 BDADDR inside a DualShock 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bkotov",
+  "license": "ISC",
+  "dependencies": {
+    "usb": "^2.14.0"
+  }
+}
