@@ -22,8 +22,8 @@ This script allows you to read and override the PS4 BDADDR (Bluetooth Device Add
 1. **Clone the Repository** (or download the script)
 
     ```bash
-    git clone https://github.com/yourusername/dualshock4-bdaddr-tool.git
-    cd dualshock4-bdaddr-tool
+    git clone [https://github.com/yourusername/dualshock4-bdaddr-tool.git](https://github.com/bkotov/ps4_mac)
+    cd ps4_mac
     ```
 
 2.	**Install Dependencies**
